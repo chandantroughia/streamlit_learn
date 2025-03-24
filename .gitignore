@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+env/
+venv/
+.streamlit/config.toml
+*.env
+.vscode/
+.idea/

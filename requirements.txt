@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+langchain
+langchain-google-genai
+langchain-community
+python-dotenv
+Pillow
+langchain-chroma
+pymupdf
+pandas
